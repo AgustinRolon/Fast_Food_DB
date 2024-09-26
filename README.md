@@ -2,6 +2,10 @@
 
 Bienvenido al proyecto de análisis de datos para evaluar la eficiencia de los mensajeros, la productividad de los empleados y las tendencias de ventas en nuestra empresa. Este README proporciona una visión general de la creación y carga de datos en la base de datos, así como un resumen de los análisis y recomendaciones estratégicas.
 
+<p align="center">
+  <img src="https://i.imgur.com/LvLFUMY.png" width="600" height="400" alt="Logo-Proyecto"/>
+</p>
+
 ## 🛠️ Creación y Carga de Datos
 
 ### 🏗️ Creación de la Base de Datos
